@@ -1,0 +1,6 @@
+{
+  "name": "SL Collection | Luxury Sport & Streetwear",
+  "description": "Modern, confident, effortless luxury fashion for women combining elegant silhouettes with sporty streetwear.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
